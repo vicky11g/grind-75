@@ -1,4 +1,5 @@
 /*
+Companies: Atlassian
 Given a grid and a word, write a function that returns the location of the
  word in the grid as a list of coordinates. If there are multiple matches, 
  return any one.
